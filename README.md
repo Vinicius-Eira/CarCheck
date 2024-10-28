@@ -24,7 +24,7 @@ CarCheck permite que os usuários identifiquem problemas em seus veículos atrav
 
 - **Backend**:
   
-  - O CarCheck utiliza Python para a implementação do backend, permitindo uma integração eficaz com o IBM Watson, que é utilizado para criar o sistema de chat baseado em inteligência artificial. Com essa configuração, o chat consegue diagnosticar problemas em veículos de forma precisa, respondendo a perguntas dos usuários e fornecendo orientações relevantes sobre serviços e peças.
+O CarCheck utiliza Python para a implementação do backend, permitindo uma integração eficaz com o IBM Watson, que é utilizado para criar o sistema de chat baseado em inteligência artificial. Com essa configuração, o chat consegue diagnosticar problemas em veículos de forma precisa, respondendo a perguntas dos usuários e fornecendo orientações relevantes sobre serviços e peças.
 
 Integração com IBM Watson
 A integração com o IBM Watson é realizada através de suas APIs, que possibilitam a construção de interações conversacionais. O sistema é projetado para entender as consultas dos usuários e fornecer respostas contextualizadas. Isso inclui:
