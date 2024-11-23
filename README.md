@@ -90,8 +90,6 @@ CarCheck permite que os usuários identifiquem problemas em seus veículos atrav
    npm run dev
    ```
 
-   O projeto estará disponível em [http://localhost:3000](http://localhost:3000).
-
 ## Uso
 
 - **Página Inicial**: Acesse [http://localhost:3000](http://localhost:3000) para visualizar a página inicial.
