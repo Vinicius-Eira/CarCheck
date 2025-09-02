@@ -1,0 +1,94 @@
+/* NovoVeiculo.module.css */
+.container {
+  background-color: #1e1e1e;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto', sans-serif; /* Fonte moderna */
+}
+
+.formContainer {
+  color: white;
+  background-color:  #2c2c2c;
+  border-radius: 15px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1); /* Sombra para profundidade */
+  padding: 30px;
+  max-width: 500px; /* Largura máxima do formulário */
+  width: 100%; /* Largura total */
+  margin-top: 20px; /* Distância do cabeçalho */
+}
+
+.formContainer h2 {
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.inputGroup {
+  color: white;
+
+  margin-bottom: 15px; /* Espaçamento entre grupos de input */
+}
+
+.label {
+  display: block;
+  font-weight: 600; /* Negrito */
+  margin-bottom: 5px;
+  color: white;
+}
+
+.input, .select {
+  
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd; /* Bordas sutis */
+  border-radius: 5px;
+  transition: border 0.3s; /* Transição suave */
+}
+
+.input:focus, .select:focus {
+  border-color: #28a745; /* Verde quando focado */
+  outline: none; /* Remove contorno padrão */
+}
+
+.button {
+  background-color: #28a745; /* Verde para o botão */
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Transição suave */
+  font-weight: bold; /* Negrito */
+  width: 100%; /* Botão ocupa toda a largura */
+}
+
+.button:hover {
+  background-color: #218838; /* Verde mais escuro no hover */
+}
+
+.message {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 20px;
+}
+
+.messageButton {
+
+  background-color: #007bff; /* Azul para botão de mensagem */
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.messageButton:hover {
+  color: white;
+
+  background-color: #0056b3; /* Azul mais escuro no hover */
+}
+
+
