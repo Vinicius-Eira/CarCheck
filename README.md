@@ -83,8 +83,7 @@ npm run dev
 
 Acesse a aplicação: Abra seu navegador em [ http://localhost:5173](https://carcheck-wine.vercel.app/) (ou a porta indicada no terminal).
 
-🤝 Contribuição
-Contribuições são sempre bem-vindas!
+🤝 Contribuições são sempre bem-vindas!
 
 Faça um Fork do projeto.
 
