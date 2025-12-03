@@ -95,7 +95,3 @@ Faça o Push (git push origin feature/NovaFeature).
 
 Abra um Pull Request.
 
-📝 Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
-Feito com 💜 pela equipe CarCheck
