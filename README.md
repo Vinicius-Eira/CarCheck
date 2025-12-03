@@ -61,8 +61,8 @@ Clone o repositório:
 
 ```bash
 git clone [https://github.com/seu-usuario/carcheck.git](https://github.com/seu-usuario/carcheck.git)
-Acesse a pasta do projeto:
 ```
+Acesse a pasta do projeto:
 
 ```bash
 cd carcheck
