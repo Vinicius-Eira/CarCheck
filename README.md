@@ -66,8 +66,8 @@ Acesse a pasta do projeto:
 
 ```bash
 cd carcheck
-Instale as dependências:
 ```
+Instale as dependências:
 
 ```bash
 npm install
